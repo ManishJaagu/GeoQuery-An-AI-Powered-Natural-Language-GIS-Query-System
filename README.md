@@ -40,3 +40,7 @@ GeoPandas
 Folium Interactive Map
         ↓
 Results + CSV Export
+```
+## Repository Contents
+
+The repository contains the project report, presentation, code directory, SOS'26 certificate during the analysis.

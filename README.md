@@ -2,7 +2,7 @@
 
 GeoQuery is a Summer of Science (SoS) 2026 project that combines Large Language Models with GIS and spatial databases to make geospatial data easier to query. Instead of writing SQL queries or navigating traditional GIS software, users can ask questions such as **"Show hospitals in Hyderabad"** in natural language.
 
-The system uses **Llama 3.3 70B** through the Groq API to understand the user's query and convert it into a structured JSON representation. This is then translated into spatial SQL and executed on a **PostgreSQL/PostGIS** database. The retrieved features are processed using GeoPandas and displayed through an interactive Streamlit/Folium interface. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+The system uses **Llama 3.3 70B** through the Groq API to understand the user's query and convert it into a structured JSON representation. This is then translated into spatial SQL and executed on a **PostgreSQL/PostGIS** database. The retrieved features are processed using GeoPandas and displayed through an interactive Streamlit/Folium interface.
 
 ## Features
 

@@ -1,0 +1,14 @@
+streamlit
+langchain-groq
+python-dotenv
+
+psycopg2-binary
+sqlalchemy
+geoalchemy2
+
+geopandas
+shapely
+folium
+streamlit-folium
+
+pandas
